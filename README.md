@@ -9,8 +9,8 @@ Since there are various ways to achieve this, special importance will be given t
 Due to time constraints, in this project we will focus on the Food Compass score, as the baseline score for food items. Note that this score takes into account 54 food attributes as input, and its calculation procedure is publicly available (see References below).
 
 ## Provided inputs:
-• A database 8,032 food items, with their respective Food Compass score.
-• A database of 45,629 recipes (ingredients and cooking procedure).
+- A database 8,032 food items, with their respective Food Compass score.
+- A database of 45,629 recipes (ingredients and cooking procedure).
 
 ## Expected outputs:
 - An NLP method to process these recipes (as text input data) and extract relevant features and information that will be used to calculate the recipe quality score. This method should be thoroughly documented (feature engineering, model choices, training procedure, etc.).
