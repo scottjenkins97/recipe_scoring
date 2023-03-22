@@ -24,3 +24,4 @@ Mozaffarian, D., El-Abbadi, N.H., O’Hearn, M. et al. Food Compass is a nutrien
 
 O’Hearn, M., Erndt-Marino, J., Gerber, S. et al. Validation of Food Compass with a healthy diet, cardiometabolic health, and mortality among U.S. adults, 1999–2018. Nat Commun 13, 7066 (2022). https://doi.org/10.1038/s41467-022-34195-8
 
+END
