@@ -1,6 +1,3 @@
-# recipe_scoring
-Space to work on the recipe scoring task for the SIAM Competition
-
 ## Question: Given a page from a recipe book, how can we quantify how healthy it is?
 
 ## Motivation
